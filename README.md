@@ -1,8 +1,8 @@
 # Hi, I'm Lekhnath Oli
 
-### Senior Software Engineer -> AI-Driven Platforms & Full-Stack Systems
+### Senior Software Engineer | AI-Driven Platforms & Full-Stack Systems
 
-Senior Software Engineer with 4+ years of experience building production backend and full-stack systems, now focused on architecting **AI-driven platforms** - document intelligence agents, real-time speech pipelines, and LLM-integrated products.
+Senior Software Engineer with 6+ years of experience building production backend and full-stack systems, now focused on architecting **AI-driven platforms** - document intelligence agents, real-time speech pipelines, and LLM-integrated products.
 
 I combine solid full-stack engineering fundamentals (Node.js, Nest.js, React.js) with applied AI tooling (Google Vertex AI, Document AI, Agent Development Kit) to ship reliable, production-grade systems.
 
@@ -12,7 +12,7 @@ I combine solid full-stack engineering fundamentals (Node.js, Nest.js, React.js)
 - Document intelligence agents for automated structured-data extraction
 - Real-time speech-to-text pipelines for meetings and audio streams
 - Full-stack web applications with React.js, Next.js, and Nest.js
-- Cloud infrastructure, containerization, and CI/CD on AWS & GCP
+- Cloud infrastructure, containerization, and CI/CD on GCP
 
 ## Tech Stack
 
